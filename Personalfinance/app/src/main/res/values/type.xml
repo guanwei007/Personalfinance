@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="addoutType">
+        <item>聚餐</item>
+        <item>应酬</item>
+        <item>送礼</item>
+        <item>车费</item>
+        <item>其他</item>
+    </string-array>
+
+    <string-array name="addinType">
+        <item>工资</item>
+        <item>奖金</item>
+        <item>分红</item>
+    </string-array>
+</resources>
